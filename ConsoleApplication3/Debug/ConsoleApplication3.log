@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ConsoleApplication3.cpp
+c:\users\hp\desktop\homework1-2\题目1\consoleapplication3\consoleapplication3.cpp(413): warning C4326: “main”的返回类型应为“int”而非“void”
+  ConsoleApplication3.vcxproj -> C:\Users\HP\Desktop\homeWork1-2\题目1\Debug\ConsoleApplication3.exe

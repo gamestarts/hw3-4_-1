@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\hp\desktop\homework1-2-3\hw3_题目1\consoleapplication3\main.cpp(9): warning C4101: “menu1”: 未引用的局部变量
+  ConsoleApplication3.vcxproj -> C:\Users\HP\Desktop\homeWork1-2-3\hw3_题目1\x64\Debug\ConsoleApplication3.exe
